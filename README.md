@@ -9,7 +9,7 @@
 4. Enjoy!
 5. You can answer the questions, and... all?
 
-# Part two: Walter White
+# Part two: Johnson
 
 P.S:
 If you are want to public this project in your GITHUB, i kill you in 9:50 next day. It is your choice: are you want to be killed and your github wild gived random

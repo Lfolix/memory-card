@@ -1,5 +1,8 @@
 # memory-card
 
+![image](https://github.com/user-attachments/assets/dbb7f77a-f10c-4542-83b0-c0676949be73)
+
+
 1. Install Python with PIP
 2. Open your CMD
 3. Type "pip install pyqt5"
